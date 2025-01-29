@@ -28,7 +28,7 @@ Emmanuel</a></h1>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 ## 🔒 Proyectos Destacados  
-- **🔍 Escáner de Vulnerabilidades:** [Escaneo de Vulnerabilidades](#https://github.com/Zafari680/Escaneo-de-vulnerabilidades)  
+- **🔍 Escáner de Vulnerabilidades:**(#https://github.com/Zafari680/Escaneo-de-vulnerabilidades)  
 - **🛠️ Herramienta para Bruteforce:** [Repo Name](#)  
 - **🎯 Write-ups de CTFs:** [CTF Challenges](#)  
 - **⚙️ Automatización de pruebas de seguridad con Python:** [Repo Name](#)  
