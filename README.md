@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Me llamo <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Emmanuel</a></h1>
-<h3 align="center"> 🔐 Apasionado por la Ciberseguridad y el Blue Teams 🔍  </h3>
+<h3 align="center"> 🔐 Apasionado por la Ciberseguridad y el Blue Team 🔍  </h3>
 
 
 
@@ -23,7 +23,7 @@ Emmanuel</a></h1>
 ![Qradar](https://img.shields.io/badge/Qradar-1793D1?style=flat-square&logo=qradar&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-004B87?style=flat-square&logo=bash&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1679A7?style=flat-square&logo=azure&logoColor=white)
-![SC-900](https://img.shields.io/badge/Sc-900-FF6F00?style=flat-square&logo=sc-900&logoColor=white)
+![Trellix](https://img.shields.io/badge/Trellix-FF6F00?style=flat-square&logo=trellixlogoColor=white)
 ![Intune](https://img.shields.io/badge/intune-20232A?style=flat-square&logo=proxmox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
