@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Me llamo <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Emmanuel</a></h1>
-<h3 align="center"> 🔐 Apasionado por la Ciberseguridad y el Pentesting 🔍  </h3>
+<h3 align="center"> 🔐 Apasionado por la Ciberseguridad y el Blue Teams 🔍  </h3>
 
 
 
@@ -8,29 +8,27 @@ Emmanuel</a></h1>
   <img align="right" top="800" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <h1> Sobre mi </h1> 
-- 💻 **Pentester** en constante aprendizaje. 
+- 💻 **Analista SOC ** en constante aprendizaje. 
 
 - 🐧 Amplio manejo de **Kali Linux** y herramientas de pentesting
 
 -  ⚒️ Experiencia con **OWASP Top 10**, análisis de vulnerabilidades y pruebas de penetración.  
 
-- 📚 Actualmente estudiando **Red Teaming** y herramientas como **Metasploit**, **Burp Suite**, **Wireshark** y **Nmap**
+- 📚 Actualmente estudiando **Blue Teams** y herramientas Siem entre otros como **Qradar**, **Azure**, **Trellix** y **Python**
 
-- 🏆 Participante en **CTFs** (Capture The Flag) para mejorar mis habilidades prácticas.
+- 🏆 Participante de CTF (Hack the Box) para mejorar mis habilidades.
 
 
 ## 🧰 Herramientas y Tecnologías  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-20232A?style=flat-square&logo=proxmox&logoColor=white)
+![Qradar](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=nmap&logoColor=white)
+![Azure](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SC-900](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
+![Intune](https://img.shields.io/badge/Metasploit-20232A?style=flat-square&logo=proxmox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 ## 🔒 Proyectos Destacados  
 - **🔍 Escáner de Vulnerabilidades:**(#https://github.com/Zafari680/Escaneo-de-vulnerabilidades)  
-- **🛠️ Herramienta para Bruteforce:** [Repo Name](#)  
-- **🎯 Write-ups de CTFs:** [CTF Challenges](#)  
 - **⚙️ Automatización de pruebas de seguridad con Python:** [Repo Name](#)  
 
 
