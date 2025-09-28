@@ -20,11 +20,11 @@ Emmanuel</a></h1>
 
 
 ## 🧰 Herramientas y Tecnologías  
-![Qradar](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=nmap&logoColor=white)
-![Azure](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![SC-900](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
-![Intune](https://img.shields.io/badge/Metasploit-20232A?style=flat-square&logo=proxmox&logoColor=white)
+![Qradar](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=qradar&logoColor=white)
+![Bash](https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=bash&logoColor=white)
+![Azure](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=azure&logoColor=white)
+![SC-900](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=sc-900&logoColor=white)
+![Intune](https://img.shields.io/badge/intune-20232A?style=flat-square&logo=proxmox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 ## 🔒 Proyectos Destacados  
